@@ -105,7 +105,7 @@ anderem folgenden Tabellen:
 #### 1. Repository klonen
 
 ``` bash
-git clone https://github.com/dein-benutzer/Ecommerce-develop.git
+git clone https://github.com/RamziBenhellal/Ecommerce
 cd Ecommerce-develop
 ```
 
@@ -168,7 +168,7 @@ Controller-Beispiele:
 
 ## 🤝 Mitwirkende
 
-**Entwickler:** Dein Name / Dein Team
+**Entwickler:** Ramzi Benhellal
 
 **Framework:** Laravel
 
