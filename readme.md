@@ -110,7 +110,7 @@ tables:
 #### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/your-username/Ecommerce-develop.git
+git clone https://github.com/RamziBenhellal/Ecommerce
 cd Ecommerce-develop
 ```
 
@@ -177,7 +177,7 @@ Example controllers:
 
 ## 🤝 Contributors
 
-**Developer:** Your Name / Your Team
+**Developer:** Ramzi Benhellal
 
 **Framework:** Laravel
 
